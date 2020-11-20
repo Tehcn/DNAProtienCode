@@ -1,0 +1,2 @@
+# DNA <---> Protien
+## The Idea
